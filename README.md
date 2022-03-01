@@ -8,4 +8,5 @@ class Mysoftware():
 	UserInterface   = True
         Module_function = True
 	Global_variable = False
+	a = 1
 ```
