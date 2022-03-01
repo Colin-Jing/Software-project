@@ -7,5 +7,5 @@ class Mysoftware():
 	Algorithm       = False
 	UserInterface   = True
         Module_function = True
-	Global_variable = None
+	Global_variable = False
 ```
